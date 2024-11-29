@@ -98,4 +98,4 @@ Contributions to the project are welcome! If you have ideas for new features, im
 
 ---
 
-Thank you for checking out the project! We hope it helps drive understanding and action towards achieving the SDGs.
+Thank you for checking out the project! We hope it helps drive understanding and action towards achieving the SDGs goals.
